@@ -888,3 +888,64 @@
 [09Dec2024 22:25:15.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
 [09Dec2024 22:26:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made papita1701 a server operator
 [09Dec2024 22:26:51.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[09Dec2024 22:34:30.011] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:34:30.013] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:34:30.068] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@723e8a6c[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54173) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:34:39.228] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:34:39.229] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:34:39.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47220659[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54182) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:34:47.666] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:34:47.667] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:34:47.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a9d3781[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54187) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:34:59.918] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:34:59.918] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:34:59.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b202c3b[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54198) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:36:34.966] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:36:34.968] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:36:35.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f33b3d7[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54253) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:02.768] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:02.769] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:02.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61905ea6[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54268) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:06.423] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:06.423] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:06.458] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71035e10[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54271) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:09.016] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:09.017] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:09.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46002dc2[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54273) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:11.417] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:11.417] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:11.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46f2652[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54275) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:13.616] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:13.616] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:13.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@689c136f[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54277) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:15.917] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:15.917] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:15.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28648131[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54278) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:41.615] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:41.615] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:41.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@229a3b7f[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54292) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:37:49.874] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:37:49.876] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:37:49.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68806629[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54300) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:38:14.514] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:38:14.515] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:38:14.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6372263a[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54312) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:38:25.064] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:38:25.064] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:38:25.111] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29af4438[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54325) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:38:31.414] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [isleofberk:control] rejected their client side version number
+[09Dec2024 22:38:31.414] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Dec2024 22:38:31.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c26df47[id=<null>,name=gonzalo191215,properties={},legacy=false] (/100.77.28.28:54329) lost connection: Connection closed - mismatched mod channel list
+[09Dec2024 22:39:35.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[09Dec2024 22:39:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 22:39:35.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 22:39:35.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Server closed
+[09Dec2024 22:39:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[09Dec2024 22:39:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 22:39:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Dec2024 22:39:40.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Dec2024 22:39:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Dec2024 22:39:40.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Dec2024 22:39:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Dec2024 22:39:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Dec2024 22:39:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
