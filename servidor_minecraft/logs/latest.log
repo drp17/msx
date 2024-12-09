@@ -1,0 +1,890 @@
+[09Dec2024 22:19:10.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[09Dec2024 22:19:10.539] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
+[09Dec2024 22:19:10.720] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/msx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[09Dec2024 22:19:11.242] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[09Dec2024 22:19:11.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[09Dec2024 22:19:11.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[09Dec2024 22:19:11.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[09Dec2024 22:19:11.488] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[09Dec2024 22:19:15.006] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Dec2024 22:19:15.103] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09Dec2024 22:19:17.214] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[09Dec2024 22:19:17.983] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[09Dec2024 22:19:30.445] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[09Dec2024 22:19:30.446] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[09Dec2024 22:19:32.603] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[09Dec2024 22:19:32.607] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[09Dec2024 22:19:33.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/farmersdelight-common.toml is not correct. Correcting
+[09Dec2024 22:19:33.124] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.125] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.enableVanillaCropCrates was corrected from null to its default, true. 
+[09Dec2024 22:19:33.125] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.farmersBuyFDCrops was corrected from null to its default, true. 
+[09Dec2024 22:19:33.126] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.wanderingTraderSellsFDItems was corrected from null to its default, true. 
+[09Dec2024 22:19:33.126] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.richSoilBoostChance was corrected from null to its default, 0.2. 
+[09Dec2024 22:19:33.127] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.cuttingBoardFortuneBonus was corrected from null to its default, 0.1. 
+[09Dec2024 22:19:33.127] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.enableRopeReeling was corrected from null to its default, true. 
+[09Dec2024 22:19:33.128] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.canvasSignDarkBackgroundList was corrected from null to its default, [gray, purple, blue, brown, green, red, black]. 
+[09Dec2024 22:19:33.130] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key farming was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.130] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key farming.defaultTomatoVineRope was corrected from null to its default, farmersdelight:rope. 
+[09Dec2024 22:19:33.131] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key farming.enableTomatoVineClimbingTaggedRopes was corrected from null to its default, true. 
+[09Dec2024 22:19:33.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipe_book was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.133] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipe_book.enableRecipeBookCookingPot was corrected from null to its default, true. 
+[09Dec2024 22:19:33.135] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.136] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.vanillaSoupExtraEffects was corrected from null to its default, true. 
+[09Dec2024 22:19:33.136] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.rabbitStewJumpBoost was corrected from null to its default, true. 
+[09Dec2024 22:19:33.139] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.dispenserUsesToolsOnCuttingBoard was corrected from null to its default, true. 
+[09Dec2024 22:19:33.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.stack_size was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.stack_size.enableStackableSoupItems was corrected from null to its default, true. 
+[09Dec2024 22:19:33.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key overrides.stack_size.soupItemList was corrected from null to its default, [minecraft:mushroom_stew, minecraft:beetroot_soup, minecraft:rabbit_stew]. 
+[09Dec2024 22:19:33.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.generateFDChestLoot was corrected from null to its default, true. 
+[09Dec2024 22:19:33.148] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.genVillageCompostHeaps was corrected from null to its default, true. 
+[09Dec2024 22:19:33.149] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_cabbages was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_cabbages.genWildCabbages was corrected from null to its default, true. 
+[09Dec2024 22:19:33.150] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_cabbages.chance was corrected from null to its default, 30. 
+[09Dec2024 22:19:33.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_beetroots was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_beetroots.genWildBeetroots was corrected from null to its default, true. 
+[09Dec2024 22:19:33.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_beetroots.chance was corrected from null to its default, 30. 
+[09Dec2024 22:19:33.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_potatoes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_potatoes.genWildPotatoes was corrected from null to its default, true. 
+[09Dec2024 22:19:33.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_potatoes.chance was corrected from null to its default, 100. 
+[09Dec2024 22:19:33.160] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_carrots was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.161] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_carrots.genWildCarrots was corrected from null to its default, true. 
+[09Dec2024 22:19:33.162] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_carrots.chance was corrected from null to its default, 120. 
+[09Dec2024 22:19:33.163] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_onions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.164] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_onions.genWildOnions was corrected from null to its default, true. 
+[09Dec2024 22:19:33.165] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_onions.chance was corrected from null to its default, 120. 
+[09Dec2024 22:19:33.165] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_tomatoes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.166] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_tomatoes.genWildTomatoes was corrected from null to its default, true. 
+[09Dec2024 22:19:33.168] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_tomatoes.chance was corrected from null to its default, 100. 
+[09Dec2024 22:19:33.169] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_rice was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.169] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_rice.genWildRice was corrected from null to its default, true. 
+[09Dec2024 22:19:33.170] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.wild_rice.chance was corrected from null to its default, 20. 
+[09Dec2024 22:19:33.171] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.brown_mushroom_colonies was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.172] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.brown_mushroom_colonies.genBrownMushroomColony was corrected from null to its default, true. 
+[09Dec2024 22:19:33.172] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.brown_mushroom_colonies.chance was corrected from null to its default, 15. 
+[09Dec2024 22:19:33.174] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.red_mushroom_colonies was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.175] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.red_mushroom_colonies.genRedMushroomColony was corrected from null to its default, true. 
+[09Dec2024 22:19:33.175] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.red_mushroom_colonies.chance was corrected from null to its default, 15. 
+[09Dec2024 22:19:33.190] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/isleofberk-spawns.toml is not correct. Correcting
+[09Dec2024 22:19:33.191] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.192] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stinger.stinger_data was corrected from null to its default, [10 | 2 | 4 | minecraft:sunflower_plains, minecraft:savanna, minecraft:savanna_plateau, 2 | 0 | 2 | minecraft:badlands, minecraft:wooded_badlands, minecraft:eroded_badlands]. 
+[09Dec2024 22:19:33.194] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Terrible Terror was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.195] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Terrible Terror.terrible_terror_data was corrected from null to its default, [1 | 0 | 3 | minecraft:stony_shore, minecraft:river, minecraft:beach, 4 | 2 | 4 | minecraft:jungle, minecraft:bamboo_jungle, minecraft:dark_forest]. 
+[09Dec2024 22:19:33.197] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Deadly Nadder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Deadly Nadder.deadly_nadder_data was corrected from null to its default, [2 | 2 | 3 | minecraft:snowy_plains, minecraft:meadow, 4 | 2 | 3 | minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:windswept_forest, 6 | 2 | 4 | minecraft:sparse_jungle, minecraft:savanna, minecraft:savanna_plateau, 9 | 1 | 3 | minecraft:grove, minecraft:forest, minecraft:flower_forest, minecraft:birch_forest, minecraft:old_growth_birch_forest, minecraft:windswept_savanna]. 
+[09Dec2024 22:19:33.201] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gronckle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.202] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gronckle.gronckle_data was corrected from null to its default, [2 | 1 | 2 | minecraft:snowy_plains, minecraft:swamp, minecraft:meadow, 5 | 2 | 3 | minecraft:old_growth_birch_forest, minecraft:savanna_plateau, minecraft:windswept_savanna, 6 | 1 | 2 | minecraft:plains, minecraft:grove, minecraft:sunflower_plains, minecraft:savanna]. 
+[09Dec2024 22:19:33.203] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Hideous Zippleback was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.204] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Hideous Zippleback.zippleback_data was corrected from null to its default, [6 | 2 | 3 | minecraft:sparse_jungle, 1 | 0 | 1 | minecraft:ice_spikes, minecraft:snowy_plains, minecraft:swamp]. 
+[09Dec2024 22:19:33.206] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Light Fury was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.221] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Light Fury.light_fury_data was corrected from null to its default, [3 | 0 | 1 | minecraft:jagged_peaks, minecraft:frozen_peaks, minecraft:windswept_forest, minecraft:birch_forest, minecraft:old_growth_birch_forest]. 
+[09Dec2024 22:19:33.224] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Fury was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.225] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Fury.night_fury_data was corrected from null to its default, [2 | 0 | 1 | minecraft:snowy_slopes, minecraft:jagged_peaks, minecraft:frozen_peaks, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks]. 
+[09Dec2024 22:19:33.227] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Monstrous Nightmare was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.229] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Monstrous Nightmare.nightmare_data was corrected from null to its default, [1 | 0 | 1 | minecraft:badlands, minecraft:wooded_badlands, minecraft:eroded_badlands, 1 | 0 | 1 | minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:windswept_forest]. 
+[09Dec2024 22:19:33.230] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Skrill was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.233] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Skrill.skrill_data was corrected from null to its default, [5 | 0 | 1 | minecraft:snowy_slopes, minecraft:jagged_peaks, minecraft:frozen_peaks, minecraft:stony_peaks]. 
+[09Dec2024 22:19:33.234] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Triple Stryke was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.235] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Triple Stryke.triple_stryke_data was corrected from null to its default, [1 | 0 | 2 | minecraft:wooded_badlands, minecraft:badlands, 5 | 1 | 3 | minecraft:snowy_taiga, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga]. 
+[09Dec2024 22:19:33.240] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/isleofberk-hatch-times.toml is not correct. Correcting
+[09Dec2024 22:19:33.241] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Terrible Terror was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.241] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Terrible Terror.terrible_terror_time was corrected from null to its default, 300. 
+[09Dec2024 22:19:33.243] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Speed Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.243] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Speed Stinger.speed_stinger_time was corrected from null to its default, 300. 
+[09Dec2024 22:19:33.245] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Floutscout Speed Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.246] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Floutscout Speed Stinger.floutscout_speed_stinger_time was corrected from null to its default, 300. 
+[09Dec2024 22:19:33.248] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ice Breaker Speed Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.248] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Ice Breaker Speed Stinger.ice_breaker_speed_stinger_time was corrected from null to its default, 300. 
+[09Dec2024 22:19:33.250] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sweet Sting Speed Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.250] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Sweet Sting Speed Stinger.sweet_stinger_speed_stinger_time was corrected from null to its default, 300. 
+[09Dec2024 22:19:33.252] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Deadly Nadder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.253] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Deadly Nadder.deadly_nadder_time was corrected from null to its default, 600. 
+[09Dec2024 22:19:33.254] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Fury was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.261] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Night Fury.night_fury_time was corrected from null to its default, 1200. 
+[09Dec2024 22:19:33.263] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Light Fury was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.264] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Light Fury.light_fury_time was corrected from null to its default, 1200. 
+[09Dec2024 22:19:33.269] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gronckle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.270] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Gronckle.gronckle_time was corrected from null to its default, 600. 
+[09Dec2024 22:19:33.275] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Triple Stryke was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.277] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Triple Stryke.triple_stryke_time was corrected from null to its default, 1200. 
+[09Dec2024 22:19:33.281] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stinger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.283] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Stinger.stinger_time was corrected from null to its default, 1200. 
+[09Dec2024 22:19:33.287] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Zippleback was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.300] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Zippleback.zippleback_time was corrected from null to its default, 2400. 
+[09Dec2024 22:19:33.302] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nightmare was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.302] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Nightmare.nightmare_time was corrected from null to its default, 2400. 
+[09Dec2024 22:19:33.305] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Skrill was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.316] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Skrill.skrill_time was corrected from null to its default, 1200. 
+[09Dec2024 22:19:33.326] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/pehkui-common.toml is not correct. Correcting
+[09Dec2024 22:19:33.327] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.328] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledFallDamage was corrected from null to its default, true. 
+[09Dec2024 22:19:33.329] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledMotion was corrected from null to its default, true. 
+[09Dec2024 22:19:33.330] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledReach was corrected from null to its default, true. 
+[09Dec2024 22:19:33.331] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledAttack was corrected from null to its default, true. 
+[09Dec2024 22:19:33.332] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledDefense was corrected from null to its default, true. 
+[09Dec2024 22:19:33.332] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledHealth was corrected from null to its default, true. 
+[09Dec2024 22:19:33.333] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledItemDrops was corrected from null to its default, true. 
+[09Dec2024 22:19:33.333] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledProjectiles was corrected from null to its default, true. 
+[09Dec2024 22:19:33.334] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scaledExplosions was corrected from null to its default, true. 
+[09Dec2024 22:19:33.335] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.keepAllScalesOnRespawn was corrected from null to its default, false. 
+[09Dec2024 22:19:33.336] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.accurateNetherPortals was corrected from null to its default, true. 
+[09Dec2024 22:19:33.337] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.scalesKeptOnRespawn was corrected from null to its default, []. 
+[09Dec2024 22:19:33.337] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.enableCommands was corrected from null to its default, true. 
+[09Dec2024 22:19:33.337] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.enableDebugCommands was corrected from null to its default, false. 
+[09Dec2024 22:19:33.348] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
+[09Dec2024 22:19:33.349] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.350] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.351] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.351] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.inventorySlotCount was corrected from null to its default, 27. 
+[09Dec2024 22:19:33.352] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.toolSlotCount was corrected from null to its default, 2. 
+[09Dec2024 22:19:33.353] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.tankCapacity was corrected from null to its default, 3000. 
+[09Dec2024 22:19:33.353] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.354] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.inventorySlotCount was corrected from null to its default, 36. 
+[09Dec2024 22:19:33.354] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.toolSlotCount was corrected from null to its default, 3. 
+[09Dec2024 22:19:33.354] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.tankCapacity was corrected from null to its default, 4000. 
+[09Dec2024 22:19:33.356] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.357] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.inventorySlotCount was corrected from null to its default, 45. 
+[09Dec2024 22:19:33.357] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.toolSlotCount was corrected from null to its default, 4. 
+[09Dec2024 22:19:33.359] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.tankCapacity was corrected from null to its default, 5000. 
+[09Dec2024 22:19:33.360] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.360] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.inventorySlotCount was corrected from null to its default, 54. 
+[09Dec2024 22:19:33.361] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.toolSlotCount was corrected from null to its default, 5. 
+[09Dec2024 22:19:33.362] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.tankCapacity was corrected from null to its default, 6000. 
+[09Dec2024 22:19:33.363] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.363] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.inventorySlotCount was corrected from null to its default, 63. 
+[09Dec2024 22:19:33.364] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.toolSlotCount was corrected from null to its default, 6. 
+[09Dec2024 22:19:33.364] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.tankCapacity was corrected from null to its default, 7000. 
+[09Dec2024 22:19:33.365] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableTierUpgrades was corrected from null to its default, true. 
+[09Dec2024 22:19:33.366] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableCraftingUpgrade was corrected from null to its default, true. 
+[09Dec2024 22:19:33.366] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingUpgradeByDefault was corrected from null to its default, false. 
+[09Dec2024 22:19:33.366] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingSavesItems was corrected from null to its default, true. 
+[09Dec2024 22:19:33.367] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackBlockWearable was corrected from null to its default, true. 
+[09Dec2024 22:19:33.369] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackRightClickUnequip was corrected from null to its default, false. 
+[09Dec2024 22:19:33.369] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowOnlyEquippedBackpack was corrected from null to its default, false. 
+[09Dec2024 22:19:33.370] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
+[09Dec2024 22:19:33.371] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptSwords was corrected from null to its default, true. 
+[09Dec2024 22:19:33.371] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
+[09Dec2024 22:19:33.372] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptEverything was corrected from null to its default, false. 
+[09Dec2024 22:19:33.372] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.blacklistedItems was corrected from null to its default, []. 
+[09Dec2024 22:19:33.373] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
+[09Dec2024 22:19:33.373] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.voidProtection was corrected from null to its default, true. 
+[09Dec2024 22:19:33.374] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
+[09Dec2024 22:19:33.374] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
+[09Dec2024 22:19:33.375] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
+[09Dec2024 22:19:33.375] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.curiosIntegration was corrected from null to its default, false. 
+[09Dec2024 22:19:33.376] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.376] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableLoot was corrected from null to its default, true. 
+[09Dec2024 22:19:33.377] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
+[09Dec2024 22:19:33.377] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
+[09Dec2024 22:19:33.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
+[09Dec2024 22:19:33.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnChance was corrected from null to its default, 500. 
+[09Dec2024 22:19:33.379] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
+[09Dec2024 22:19:33.380] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
+[09Dec2024 22:19:33.381] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableVillagerTrade was corrected from null to its default, true. 
+[09Dec2024 22:19:33.381] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.381] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
+[09Dec2024 22:19:33.382] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.forceAbilityEnabled was corrected from null to its default, true. 
+[09Dec2024 22:19:33.382] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid]. 
+[09Dec2024 22:19:33.383] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:33.383] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[09Dec2024 22:19:33.384] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[09Dec2024 22:19:33.384] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
+[09Dec2024 22:19:33.676] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[09Dec2024 22:19:33.882] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[09Dec2024 22:19:33.883] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[09Dec2024 22:19:33.891] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[09Dec2024 22:19:33.893] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[09Dec2024 22:19:33.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[09Dec2024 22:19:33.901] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09Dec2024 22:19:33.901] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[09Dec2024 22:19:33.903] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09Dec2024 22:19:33.905] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[09Dec2024 22:19:33.919] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+
+[09Dec2024 22:19:35.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
+[09Dec2024 22:19:35.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Dec2024 22:19:35.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
+[09Dec2024 22:19:35.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[09Dec2024 22:19:36.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.18.2-1.0.2 Target: null
+[09Dec2024 22:19:36.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[09Dec2024 22:19:36.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
+[09Dec2024 22:19:37.778] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Dec2024 22:19:37.945] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2355!/assets/.mcassetsroot' uses unexpected schema
+[09Dec2024 22:19:37.946] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2355!/data/.mcassetsroot' uses unexpected schema
+[09Dec2024 22:19:42.838] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Dec2024 22:19:42.841] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Dec2024 22:19:42.847] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:42.850] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:42.853] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Dec2024 22:19:42.865] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[09Dec2024 22:19:42.870] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[09Dec2024 22:19:42.876] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.882] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.887] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[09Dec2024 22:19:42.892] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[09Dec2024 22:19:42.902] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.903] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[09Dec2024 22:19:42.906] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[09Dec2024 22:19:42.909] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[09Dec2024 22:19:42.913] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[09Dec2024 22:19:42.918] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[09Dec2024 22:19:42.921] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[09Dec2024 22:19:42.926] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[09Dec2024 22:19:42.931] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[09Dec2024 22:19:42.935] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -f] and [cpm, setskin, target] with inputs: [-f]
+[09Dec2024 22:19:42.937] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -t] and [cpm, setskin, target] with inputs: [-t]
+[09Dec2024 22:19:42.944] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -r] and [cpm, setskin, target] with inputs: [-r]
+[09Dec2024 22:19:42.949] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.951] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.954] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.960] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.962] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, max] and [cpm, scaling, entity, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.969] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, min] and [cpm, scaling, entity, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.972] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, enabled, enable] and [cpm, scaling, entity, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:42.978] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, method, method] and [cpm, scaling, entity, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:42.979] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, method, target] and [cpm, scaling, entity, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:42.984] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.986] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:42.991] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:42.994] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.005] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, max] and [cpm, scaling, eye_height, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.007] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, min] and [cpm, scaling, eye_height, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.008] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, enabled, enable] and [cpm, scaling, eye_height, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.011] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, method, method] and [cpm, scaling, eye_height, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.013] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, method, target] and [cpm, scaling, eye_height, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.016] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.019] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.025] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.029] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.033] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, max] and [cpm, scaling, hitbox_width, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.037] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, min] and [cpm, scaling, hitbox_width, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.040] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, enabled, enable] and [cpm, scaling, hitbox_width, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.043] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, method, method] and [cpm, scaling, hitbox_width, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.048] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, method, target] and [cpm, scaling, hitbox_width, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.049] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.056] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.058] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.060] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.064] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, max] and [cpm, scaling, hitbox_height, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.066] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, min] and [cpm, scaling, hitbox_height, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.072] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, enabled, enable] and [cpm, scaling, hitbox_height, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.074] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, method, method] and [cpm, scaling, hitbox_height, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.075] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, method, target] and [cpm, scaling, hitbox_height, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.086] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.092] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.094] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.096] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.098] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, max] and [cpm, scaling, third_person, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.105] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, min] and [cpm, scaling, third_person, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.107] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, enabled, enable] and [cpm, scaling, third_person, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.109] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, method, method] and [cpm, scaling, third_person, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.116] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, method, target] and [cpm, scaling, third_person, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.117] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.119] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.123] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.129] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.131] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, max] and [cpm, scaling, view_bobbing, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.133] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, min] and [cpm, scaling, view_bobbing, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.140] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, enabled, enable] and [cpm, scaling, view_bobbing, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.142] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, method, method] and [cpm, scaling, view_bobbing, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.143] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, method, target] and [cpm, scaling, view_bobbing, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.149] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.154] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.156] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.162] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.164] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, max] and [cpm, scaling, motion, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.168] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, min] and [cpm, scaling, motion, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.170] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, enabled, enable] and [cpm, scaling, motion, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.174] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, method, method] and [cpm, scaling, motion, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.176] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, method, target] and [cpm, scaling, motion, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.180] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.189] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.191] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.192] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.196] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, max] and [cpm, scaling, step_height, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.198] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, min] and [cpm, scaling, step_height, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.203] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, enabled, enable] and [cpm, scaling, step_height, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.210] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, method, method] and [cpm, scaling, step_height, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.212] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, method, target] and [cpm, scaling, step_height, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.213] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.216] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.223] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.224] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.225] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, max] and [cpm, scaling, flight_speed, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.226] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, min] and [cpm, scaling, flight_speed, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.230] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, enabled, enable] and [cpm, scaling, flight_speed, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.231] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, method, method] and [cpm, scaling, flight_speed, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.232] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, method, target] and [cpm, scaling, flight_speed, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.243] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.245] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.246] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.246] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.247] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, max] and [cpm, scaling, fall_damage, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.248] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, min] and [cpm, scaling, fall_damage, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.249] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, enabled, enable] and [cpm, scaling, fall_damage, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.250] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, method, method] and [cpm, scaling, fall_damage, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.252] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, method, target] and [cpm, scaling, fall_damage, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.253] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.254] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.255] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.257] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.262] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, max] and [cpm, scaling, reach, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.264] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, min] and [cpm, scaling, reach, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.267] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, enabled, enable] and [cpm, scaling, reach, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.269] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, method, method] and [cpm, scaling, reach, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.272] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, method, target] and [cpm, scaling, reach, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.272] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.274] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.275] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.278] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.279] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, max] and [cpm, scaling, mining_speed, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.281] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, min] and [cpm, scaling, mining_speed, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.283] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, enabled, enable] and [cpm, scaling, mining_speed, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.283] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, method, method] and [cpm, scaling, mining_speed, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.289] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, method, target] and [cpm, scaling, mining_speed, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.290] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.290] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.291] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.292] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.295] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, max] and [cpm, scaling, attack_speed, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.297] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, min] and [cpm, scaling, attack_speed, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.298] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, enabled, enable] and [cpm, scaling, attack_speed, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.301] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, method, method] and [cpm, scaling, attack_speed, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.302] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, method, target] and [cpm, scaling, attack_speed, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.305] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.306] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.307] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.307] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.309] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, max] and [cpm, scaling, attack_knockback, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.312] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, min] and [cpm, scaling, attack_knockback, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.312] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, enabled, enable] and [cpm, scaling, attack_knockback, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.313] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, method, method] and [cpm, scaling, attack_knockback, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.316] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, method, target] and [cpm, scaling, attack_knockback, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.317] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.318] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.320] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.324] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, max] and [cpm, scaling, attack_dmg, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.324] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, min] and [cpm, scaling, attack_dmg, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.325] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, enabled, enable] and [cpm, scaling, attack_dmg, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.327] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, method, method] and [cpm, scaling, attack_dmg, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.329] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, method, target] and [cpm, scaling, attack_dmg, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.329] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.332] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.333] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.334] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, max] and [cpm, scaling, defense, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.338] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, min] and [cpm, scaling, defense, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.341] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, enabled, enable] and [cpm, scaling, defense, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.342] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, method, method] and [cpm, scaling, defense, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.342] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, method, target] and [cpm, scaling, defense, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.343] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.348] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.349] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.349] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.351] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, max] and [cpm, scaling, health, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.354] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, min] and [cpm, scaling, health, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.356] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, enabled, enable] and [cpm, scaling, health, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.357] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, method, method] and [cpm, scaling, health, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.358] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, method, target] and [cpm, scaling, health, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.359] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.363] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.364] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.365] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.366] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, max] and [cpm, scaling, mob_visibility, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.366] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, min] and [cpm, scaling, mob_visibility, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.369] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, enabled, enable] and [cpm, scaling, mob_visibility, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.370] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, method, method] and [cpm, scaling, mob_visibility, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.371] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, method, target] and [cpm, scaling, mob_visibility, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.372] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, max] and [cpm, scaling, width, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.375] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, max] and [cpm, scaling, width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.377] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, min] and [cpm, scaling, width, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.382] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, min] and [cpm, scaling, width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.383] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, target, max] and [cpm, scaling, width, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.384] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, limit, target, min] and [cpm, scaling, width, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.455] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, enabled, enable] and [cpm, scaling, width, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.457] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, method, method] and [cpm, scaling, width, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.458] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, width, method, target] and [cpm, scaling, width, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.459] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, max] and [cpm, scaling, height, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.459] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, max] and [cpm, scaling, height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.460] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, min] and [cpm, scaling, height, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.461] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, min] and [cpm, scaling, height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.461] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, target, max] and [cpm, scaling, height, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.462] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, limit, target, min] and [cpm, scaling, height, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.463] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, enabled, enable] and [cpm, scaling, height, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.463] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, method, method] and [cpm, scaling, height, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.464] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, height, method, target] and [cpm, scaling, height, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.466] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, max] and [cpm, scaling, jump_height, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.467] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, max] and [cpm, scaling, jump_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.471] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, min] and [cpm, scaling, jump_height, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.472] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, min] and [cpm, scaling, jump_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.473] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, target, max] and [cpm, scaling, jump_height, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.477] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, limit, target, min] and [cpm, scaling, jump_height, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.478] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, enabled, enable] and [cpm, scaling, jump_height, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.479] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, method, method] and [cpm, scaling, jump_height, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.479] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, jump_height, method, target] and [cpm, scaling, jump_height, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.480] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, max] and [cpm, scaling, projectile_dmg, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.481] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, max] and [cpm, scaling, projectile_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.481] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, min] and [cpm, scaling, projectile_dmg, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.483] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, min] and [cpm, scaling, projectile_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.484] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, target, max] and [cpm, scaling, projectile_dmg, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.484] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, limit, target, min] and [cpm, scaling, projectile_dmg, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.485] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, enabled, enable] and [cpm, scaling, projectile_dmg, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.486] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, method, method] and [cpm, scaling, projectile_dmg, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.486] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, projectile_dmg, method, target] and [cpm, scaling, projectile_dmg, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.487] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, max] and [cpm, scaling, explosion_dmg, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.488] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, max] and [cpm, scaling, explosion_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.488] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, min] and [cpm, scaling, explosion_dmg, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.489] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, min] and [cpm, scaling, explosion_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.490] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, target, max] and [cpm, scaling, explosion_dmg, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.491] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, limit, target, min] and [cpm, scaling, explosion_dmg, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.491] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, enabled, enable] and [cpm, scaling, explosion_dmg, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.492] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, method, method] and [cpm, scaling, explosion_dmg, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.492] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, explosion_dmg, method, target] and [cpm, scaling, explosion_dmg, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.493] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, max] and [cpm, scaling, knockback_resist, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.494] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, max] and [cpm, scaling, knockback_resist, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.495] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, min] and [cpm, scaling, knockback_resist, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.496] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, min] and [cpm, scaling, knockback_resist, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.496] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, target, max] and [cpm, scaling, knockback_resist, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.497] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, limit, target, min] and [cpm, scaling, knockback_resist, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.498] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, enabled, enable] and [cpm, scaling, knockback_resist, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.499] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, method, method] and [cpm, scaling, knockback_resist, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.500] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, knockback_resist, method, target] and [cpm, scaling, knockback_resist, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.501] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, max] and [cpm, scaling, safe_fall_distance, limit, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.501] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, max] and [cpm, scaling, safe_fall_distance, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.502] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, min] and [cpm, scaling, safe_fall_distance, limit, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.503] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, min] and [cpm, scaling, safe_fall_distance, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[09Dec2024 22:19:43.503] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, target, max] and [cpm, scaling, safe_fall_distance, limit, target, min] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.505] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, limit, target, min] and [cpm, scaling, safe_fall_distance, limit, target, max] with inputs: [1.2, .5]
+[09Dec2024 22:19:43.505] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, enabled, enable] and [cpm, scaling, safe_fall_distance, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.506] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, method, method] and [cpm, scaling, safe_fall_distance, method, target] with inputs: ["quoted phrase", word]
+[09Dec2024 22:19:43.507] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, safe_fall_distance, method, target] and [cpm, scaling, safe_fall_distance, method, method] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:43.507] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, all, enabled, enable] and [cpm, scaling, all, enabled, target] with inputs: [true, false]
+[09Dec2024 22:19:43.508] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Dec2024 22:19:45.108] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mineable/pickaxe as it is missing following references: brewinandchewin:fiery_fondue_pot (from BrewinAndChewin-1.18.2-1.0.0.jar)
+[09Dec2024 22:19:52.134] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[09Dec2024 22:19:54.310] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1517 advancements
+[09Dec2024 22:19:54.354] [Worker-Main-2/INFO] [someassemblyrequired.SomeAssemblyRequired/]: Loaded 58 sandwich ingredients
+[09Dec2024 22:19:55.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[09Dec2024 22:19:55.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Dec2024 22:19:55.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Dec2024 22:19:55.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Dec2024 22:19:56.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Dec2024 22:19:56.196] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Dec2024 22:19:56.553] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Dec2024 22:19:56.553] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Dec2024 22:19:56.554] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Dec2024 22:19:56.554] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Dec2024 22:19:56.585] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
+[09Dec2024 22:19:56.586] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.587] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[09Dec2024 22:19:56.587] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[09Dec2024 22:19:56.587] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[09Dec2024 22:19:56.589] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/pehkui-server.toml is not correct. Correcting
+[09Dec2024 22:19:56.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.592] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.593] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.604] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.605] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.605] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.605] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.608] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height.minimum was corrected from null to its default, 1.262177448353619E-29. 
+[09Dec2024 22:19:56.608] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.616] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.617] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.617] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.617] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.619] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.619] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.619] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.620] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.620] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.620] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.621] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.621] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.621] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.622] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.622] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.622] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.623] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.634] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.634] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.634] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.635] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.635] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.635] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.636] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.636] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.641] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.645] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.645] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.645] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.646] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.646] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.646] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.646] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.647] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.647] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.647] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.656] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.657] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.659] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.660] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.660] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.660] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.660] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.661] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.661] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.661] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.662] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.662] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.662] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.662] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.676] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.677] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.678] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.679] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.679] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.679] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.679] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.680] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.680] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.680] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.680] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.681] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.681] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.681] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.682] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.682] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.682] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.682] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.686] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[09Dec2024 22:19:56.686] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[09Dec2024 22:19:56.701] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[09Dec2024 22:19:56.708] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[09Dec2024 22:19:56.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[09Dec2024 22:19:56.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[09Dec2024 22:19:56.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[09Dec2024 22:19:56.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[09Dec2024 22:19:56.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[09Dec2024 22:19:56.711] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.skipEmptyShapelessCheck was corrected from null to its default, true. 
+[09Dec2024 22:19:56.711] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[09Dec2024 22:19:56.712] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[09Dec2024 22:19:56.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/corpse-server.toml is not correct. Correcting
+[09Dec2024 22:19:56.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.access was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.715] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.access.only_owner was corrected from null to its default, false. 
+[09Dec2024 22:19:56.715] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.access.skeleton was corrected from null to its default, false. 
+[09Dec2024 22:19:56.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.despawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[09Dec2024 22:19:56.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.despawn.time was corrected from null to its default, 600. 
+[09Dec2024 22:19:56.722] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.despawn.force_time was corrected from null to its default, -1. 
+[09Dec2024 22:19:56.722] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.skeleton_time was corrected from null to its default, 72000. 
+[09Dec2024 22:19:56.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.lie_on_face was corrected from null to its default, false. 
+[09Dec2024 22:19:56.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.show_equipment was corrected from null to its default, true. 
+[09Dec2024 22:19:56.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.fall_into_void was corrected from null to its default, false. 
+[09Dec2024 22:19:56.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key corpse.lava_damage was corrected from null to its default, false. 
+[09Dec2024 22:19:56.736] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key death_storage_duration was corrected from null to its default, -1. 
+[09Dec2024 22:19:56.740] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/some_assembly_required-server.toml is not correct. Correcting
+[09Dec2024 22:19:56.741] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maximum_sandwich_height was corrected from null to its default, 32. 
+[09Dec2024 22:19:56.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Dec2024 22:20:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Dec2024 22:20:27.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:27.355] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:27.382] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:27.423] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:27.426] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:27.473] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.912] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.953] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.955] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.972] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.990] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.991] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:34.999] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.001] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.031] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.034] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.036] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.051] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.052] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:35.644] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:36.305] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:36.679] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:37.093] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:37.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:38.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:38.704] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:39.150] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:39.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:40.130] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:40.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.125] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.136] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.139] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.143] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.147] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.149] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:45.590] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:46.147] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:46.589] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:47.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:47.661] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:48.086] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:48.651] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:49.151] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:49.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:50.170] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:50.799] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:51.124] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:51.650] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:52.162] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:52.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:53.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:53.700] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:54.114] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:54.729] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:55.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:55.596] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:56.128] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:56.699] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:57.121] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:57.591] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:58.252] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:58.657] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:59.149] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:20:59.592] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:00.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:00.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:01.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:01.586] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:02.263] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:02.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:03.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:03.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:04.090] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:04.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:05.132] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:05.661] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:06.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:06.621] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:07.206] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:07.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:08.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:08.616] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:09.183] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:09.647] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:10.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:10.632] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:11.131] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:11.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:12.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:12.682] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:13.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:13.719] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:14.150] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:14.651] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:15.168] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:15.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:16.147] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:16.641] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:17.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:17.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:18.100] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:18.708] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:19.094] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:19.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:20.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:20.776] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:21.193] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:21.597] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:22.127] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:22.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:23.108] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:23.604] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:24.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:24.595] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:25.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:25.632] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:26.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:26.723] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:27.154] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:27.672] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:28.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:28.633] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:29.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:29.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:30.199] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:30.591] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:31.137] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:31.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:32.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:32.664] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:33.092] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:33.589] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:34.097] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:34.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:35.093] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:35.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:36.090] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:36.668] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:37.107] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:37.692] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:38.196] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:38.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:39.104] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:39.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:40.138] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:40.625] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:41.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:41.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:42.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:42.595] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:43.127] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:43.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:44.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:44.639] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:45.105] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:45.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:46.093] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:46.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:47.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:47.661] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:48.268] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:48.763] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:49.208] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:49.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:50.139] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:50.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:51.097] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:51.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:52.110] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:52.680] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:53.274] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:53.707] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:54.152] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:54.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:55.118] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:55.634] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:56.217] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:56.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:57.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:57.623] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:58.146] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:58.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:59.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:21:59.623] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:00.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:00.763] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:01.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:01.741] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:02.110] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:02.682] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:03.146] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:03.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:04.208] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:04.590] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:05.094] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:05.589] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:06.184] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:06.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:07.149] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:07.622] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:08.129] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:08.593] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:09.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:09.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:10.118] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:10.614] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:11.138] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:11.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:12.091] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:12.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:13.262] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:13.719] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:14.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:14.592] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:15.302] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:15.785] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:16.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:16.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:17.164] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:17.648] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:18.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:18.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:19.155] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:19.618] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:20.123] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:20.627] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:21.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:21.631] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:22.120] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:22.699] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:23.086] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:23.639] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:24.233] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:24.600] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Dec2024 22:22:25.097] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[09Dec2024 22:22:25.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[09Dec2024 22:22:26.107] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[09Dec2024 22:22:27.822] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[09Dec2024 22:22:27.920] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[09Dec2024 22:22:27.921] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[09Dec2024 22:22:28.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[09Dec2024 22:22:30.169] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[09Dec2024 22:22:30.170] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[09Dec2024 22:22:30.232] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[09Dec2024 22:22:30.232] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[09Dec2024 22:22:30.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[09Dec2024 22:22:31.110] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[09Dec2024 22:22:33.828] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:33.829] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:33.847] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:33.847] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:33.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:34.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[09Dec2024 22:22:34.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[09Dec2024 22:22:35.115] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[09Dec2024 22:22:35.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[09Dec2024 22:22:36.723] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[09Dec2024 22:22:36.731] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[09Dec2024 22:22:37.234] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[09Dec2024 22:22:38.554] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[09Dec2024 22:22:38.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[09Dec2024 22:22:38.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[09Dec2024 22:22:39.228] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[09Dec2024 22:22:41.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[09Dec2024 22:22:41.096] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[09Dec2024 22:22:41.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[09Dec2024 22:22:41.100] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[09Dec2024 22:22:43.441] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 138856 ms
+[09Dec2024 22:22:43.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (166.873s)! For help, type "help"
+[09Dec2024 22:22:43.521] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Dec2024 22:22:47.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[09Dec2024 22:25:15.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@588453cc
+[09Dec2024 22:25:15.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/100.92.154.61:63811] logged in with entity id 491 at (89.5, 67.0, 17.5)
+[09Dec2024 22:25:15.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
+[09Dec2024 22:26:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made papita1701 a server operator
+[09Dec2024 22:26:51.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
