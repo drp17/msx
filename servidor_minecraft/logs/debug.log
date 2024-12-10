@@ -4678,3 +4678,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 03:20:23.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 03:25:23.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 03:25:23.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 03:30:23.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:30:23.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 03:34:29.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [The Parrots and the Bats]
+[10Dec2024 03:35:23.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:35:23.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
