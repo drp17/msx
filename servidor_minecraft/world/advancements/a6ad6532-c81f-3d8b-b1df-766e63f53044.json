@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-10 04:19:36 +0000"
+    },
+    "done": true
+  },
   "isleofberk:gronckle_iron_tool": {
     "criteria": {
       "doubleaxe": "2024-12-10 01:12:59 +0000"
