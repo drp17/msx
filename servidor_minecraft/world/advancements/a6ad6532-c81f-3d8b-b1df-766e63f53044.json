@@ -1532,6 +1532,12 @@
     },
     "done": true
   },
+  "isleofberk:belzium_tools": {
+    "criteria": {
+      "pickaxe": "2024-12-10 02:11:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-10 00:02:56 +0000"
@@ -1553,6 +1559,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:55:39 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:belzium_tool": {
+    "criteria": {
+      "pickaxe": "2024-12-10 02:11:12 +0000"
     },
     "done": true
   },
