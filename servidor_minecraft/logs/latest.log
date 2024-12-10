@@ -41,3 +41,10 @@
 [10Dec2024 02:11:12.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Even better ?]
 [10Dec2024 02:29:55.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 was slain by Zombie
 [10Dec2024 03:34:29.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [The Parrots and the Bats]
+[10Dec2024 03:44:15.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 lost connection: Disconnected
+[10Dec2024 03:44:15.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 left the game
+[10Dec2024 03:44:28.282] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6686e86f
+[10Dec2024 03:44:28.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:64207] logged in with entity id 56826 at (-333.28777716368904, 64.0, 1408.3151080246605)
+[10Dec2024 03:44:28.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
+[10Dec2024 03:45:02.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [What a Deal!]
+[10Dec2024 03:51:03.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Best Friends Forever]
