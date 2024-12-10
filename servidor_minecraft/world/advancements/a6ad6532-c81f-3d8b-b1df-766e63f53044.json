@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-10 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-10 00:45:06 +0000"
@@ -1190,6 +1196,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-10 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-10 00:02:44 +0000"
@@ -1253,6 +1265,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2024-12-10 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-10 03:04:54 +0000"
     },
     "done": true
   },
