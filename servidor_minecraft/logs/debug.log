@@ -4824,3 +4824,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 04:30:23.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 04:35:23.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 04:35:23.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:39:48.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 lost connection: Disconnected
+[10Dec2024 04:39:48.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 left the game
+[10Dec2024 04:40:23.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:40:23.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:41:35.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has reached the goal [Dinner's Served!]
+[10Dec2024 04:41:58.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Bonfire Lit]
+[10Dec2024 04:45:23.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:45:23.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
