@@ -11,3 +11,28 @@
 [10Dec2024 00:13:43.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 joined the game
 [10Dec2024 00:15:03.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridder24 lost connection: Disconnected
 [10Dec2024 00:15:03.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 left the game
+[10Dec2024 00:27:51.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Not Today, Thank You]
+[10Dec2024 00:27:55.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Monster Hunter]
+[10Dec2024 00:30:30.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Diamonds!]
+[10Dec2024 00:31:12.356] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6280e9e3
+[10Dec2024 00:31:12.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridder24[/100.125.79.81:57522] logged in with entity id 16198 at (-72.5, 65.0, 11.5)
+[10Dec2024 00:31:12.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 joined the game
+[10Dec2024 00:32:49.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Crops of the Wild]
+[10Dec2024 00:41:01.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 was slain by Zombie
+[10Dec2024 00:43:37.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[10Dec2024 00:43:46.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Sweet Dreams]
+[10Dec2024 00:44:00.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 was impaled by Drowned
+[10Dec2024 00:44:05.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to Ridder24]
+[10Dec2024 00:44:20.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
+[10Dec2024 00:45:21.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Acquire Hardware]
+[10Dec2024 00:46:38.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11799, l='ServerLevel[world]', x=-284.07, y=64.00, z=1395.03] died, message: 'Farmer was impaled by Drowned'
+[10Dec2024 00:47:09.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [A Seedy Place]
+[10Dec2024 00:48:07.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Monster Hunter]
+[10Dec2024 00:48:25.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to Ridder24]
+[10Dec2024 00:48:26.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 was blown up by Creeper
+[10Dec2024 00:49:09.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Monster Hunter]
+[10Dec2024 00:50:27.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridder24 lost connection: Disconnected
+[10Dec2024 00:50:27.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 left the game
+[10Dec2024 00:51:14.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
+[10Dec2024 00:55:08.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[10Dec2024 01:06:56.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [A Seedy Place]
