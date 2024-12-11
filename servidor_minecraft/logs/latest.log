@@ -364,3 +364,27 @@
 [11Dec2024 04:24:15.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Isn't It Iron Pick]
 [11Dec2024 04:31:25.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Suit Up]
 [11Dec2024 04:39:39.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Not Today, Thank You]
+[11Dec2024 04:42:41.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Stone Age]
+[11Dec2024 04:48:35.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Diamonds!]
+[11Dec2024 05:16:43.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported Ridder24 to papita1701]
+[11Dec2024 05:18:48.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 fell from a high place
+[11Dec2024 05:18:59.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to Ridder24]
+[11Dec2024 05:20:17.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 drowned
+[11Dec2024 05:20:34.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported Ridder24 to papita1701]
+[11Dec2024 05:22:20.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 was slain by Gronckle
+[11Dec2024 05:23:27.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Best Friends Forever]
+[11Dec2024 05:24:35.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridder24 lost connection: Disconnected
+[11Dec2024 05:24:35.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 left the game
+[11Dec2024 05:27:25.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[11Dec2024 05:27:25.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[11Dec2024 05:27:59.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[11Dec2024 05:27:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 05:27:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 05:27:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 05:28:00.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 05:28:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 05:28:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 05:28:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 05:28:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 05:28:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 05:28:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
