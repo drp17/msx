@@ -359,3 +359,7 @@
 [11Dec2024 04:06:38.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12820ms or 256 ticks behind
 [11Dec2024 04:06:48.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
 [11Dec2024 04:08:24.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridder24 moved wrongly!
+[11Dec2024 04:23:52.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Suit Up]
+[11Dec2024 04:24:06.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Isn't It Iron Pick]
+[11Dec2024 04:24:15.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Isn't It Iron Pick]
+[11Dec2024 04:31:25.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 has made the advancement [Suit Up]
