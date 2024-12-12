@@ -563,8 +563,10 @@
       "minecraft:skeleton": "2024-12-10 00:27:55 +0000",
       "minecraft:spider": "2024-12-10 01:12:08 +0000",
       "minecraft:creeper": "2024-12-10 00:28:22 +0000",
+      "minecraft:enderman": "2024-12-12 04:05:42 +0000",
       "minecraft:zombie": "2024-12-10 00:28:29 +0000",
-      "minecraft:drowned": "2024-12-10 02:27:09 +0000"
+      "minecraft:drowned": "2024-12-10 02:27:09 +0000",
+      "minecraft:zombie_villager": "2024-12-12 04:05:01 +0000"
     },
     "done": false
   },
@@ -1119,6 +1121,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-09 23:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-12 04:03:45 +0000"
     },
     "done": true
   },
