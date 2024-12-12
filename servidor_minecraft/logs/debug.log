@@ -3736,3 +3736,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 04:09:38.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 04:09:42.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 fell from a high place
 [12Dec2024 04:11:35.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[12Dec2024 04:14:38.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:14:38.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:19:38.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:19:38.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
