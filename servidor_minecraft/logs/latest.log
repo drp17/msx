@@ -370,3 +370,9 @@
 [12Dec2024 03:54:25.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Not Today, Thank You]
 [12Dec2024 04:09:42.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 fell from a high place
 [12Dec2024 04:11:35.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[12Dec2024 04:26:39.056] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19dbe46
+[12Dec2024 04:26:39.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridder24[/100.125.79.81:52166] logged in with entity id 17447 at (-368.04550056570406, 69.0, 1505.7012249214795)
+[12Dec2024 04:26:39.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ridder24 joined the game
+[12Dec2024 04:31:00.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was slain by Zombie
+[12Dec2024 04:31:59.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to -234.500000, 8.000000, 1301.500000]
+[12Dec2024 04:33:15.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Purple... Interesting]
