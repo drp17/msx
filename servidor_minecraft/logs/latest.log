@@ -364,3 +364,6 @@
 [12Dec2024 03:08:28.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d47ac87
 [12Dec2024 03:08:28.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:57093] logged in with entity id 546 at (-369.22621055260674, 69.0, 1512.0001736575755)
 [12Dec2024 03:08:28.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
+[12Dec2024 03:38:24.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Suit Up]
+[12Dec2024 03:42:05.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Enchanter]
+[12Dec2024 03:42:20.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Enchanter]
