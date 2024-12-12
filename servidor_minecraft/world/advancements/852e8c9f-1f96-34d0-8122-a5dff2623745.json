@@ -2274,6 +2274,12 @@
     },
     "done": true
   },
+  "isleofberk:belzium": {
+    "criteria": {
+      "requirement": "2024-12-12 04:33:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-09 23:53:44 +0000"
