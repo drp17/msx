@@ -1649,15 +1649,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-12-11 04:48:19 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-11 04:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-11 04:48:19 +0000"
     },
     "done": true
   },

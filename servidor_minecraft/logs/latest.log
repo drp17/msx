@@ -357,3 +357,10 @@
 [12Dec2024 02:54:34.005] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26436 ms
 [12Dec2024 02:54:34.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (47.699s)! For help, type "help"
 [12Dec2024 02:54:34.177] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Dec2024 03:06:29.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49981865
+[12Dec2024 03:06:29.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/100.92.154.61:63505] logged in with entity id 101 at (-391.29661468382466, 69.0625, 1513.655482667807)
+[12Dec2024 03:06:29.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
+[12Dec2024 03:06:32.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3853ms or 77 ticks behind
+[12Dec2024 03:08:28.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d47ac87
+[12Dec2024 03:08:28.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:57093] logged in with entity id 546 at (-369.22621055260674, 69.0, 1512.0001736575755)
+[12Dec2024 03:08:28.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
