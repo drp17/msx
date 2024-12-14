@@ -369,3 +369,15 @@
 [14Dec2024 04:12:02.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Who is Cutting Onions?]
 [14Dec2024 04:14:35.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was slain by Hoglin
 [14Dec2024 04:14:53.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
+[14Dec2024 04:25:30.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[14Dec2024 04:25:30.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[14Dec2024 04:26:23.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@121e7235
+[14Dec2024 04:26:23.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/100.92.154.61:58680] logged in with entity id 18343 at (-382.4991406785093, 26.086305977940814, 689.3192622731812)
+[14Dec2024 04:26:23.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
+[14Dec2024 04:26:27.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[14Dec2024 04:27:03.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has completed the challenge [Hot Tourist Destinations]
+[14Dec2024 04:31:05.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 moved too quickly! -2.9256957215774833,0.0,10.067298784593731
+[14Dec2024 04:31:57.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 moved too quickly! -6.142279728314179,0.0,8.41426672474688
+[14Dec2024 04:33:42.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[14Dec2024 04:33:53.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[14Dec2024 04:33:54.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was burnt to a crisp whilst fighting Blaze

@@ -1452,9 +1452,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-14 04:07:33 +0000",
-      "minecraft:soul_sand_valley": "2024-12-14 03:55:08 +0000"
+      "minecraft:nether_wastes": "2024-12-14 04:24:03 +0000",
+      "minecraft:soul_sand_valley": "2024-12-14 03:55:08 +0000",
+      "minecraft:warped_forest": "2024-12-14 04:24:17 +0000",
+      "minecraft:basalt_deltas": "2024-12-14 04:27:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "travelersbackpack:recipes/travelersbackpack/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
