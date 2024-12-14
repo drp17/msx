@@ -403,3 +403,18 @@
 [14Dec2024 04:54:18.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
 [14Dec2024 04:54:27.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
 [14Dec2024 04:56:01.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Purple... Interesting]
+[14Dec2024 05:05:08.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 lost connection: Disconnected
+[14Dec2024 05:05:08.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 left the game
+[14Dec2024 05:05:16.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[14Dec2024 05:05:16.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[14Dec2024 05:05:24.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[14Dec2024 05:05:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 05:05:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 05:05:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 05:05:26.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Dec2024 05:05:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Dec2024 05:05:26.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Dec2024 05:05:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Dec2024 05:05:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 05:05:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 05:05:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
