@@ -394,3 +394,10 @@
 [14Dec2024 04:42:26.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was slain by Blaze
 [14Dec2024 04:42:35.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
 [14Dec2024 04:44:02.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Into Fire]
+[14Dec2024 04:50:18.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[14Dec2024 04:50:18.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[14Dec2024 04:50:32.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4243eec5
+[14Dec2024 04:50:32.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/100.92.154.61:58935] logged in with entity id 24810 at (326.6993856143522, 31.099852287344042, 1037.105245036019)
+[14Dec2024 04:50:32.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
+[14Dec2024 04:50:36.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[14Dec2024 04:54:18.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
