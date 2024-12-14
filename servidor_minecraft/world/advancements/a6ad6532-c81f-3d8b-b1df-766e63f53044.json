@@ -1395,6 +1395,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-14 04:07:33 +0000",
       "minecraft:soul_sand_valley": "2024-12-14 03:55:08 +0000"
     },
     "done": false
@@ -1486,6 +1487,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-09 23:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 04:01:26 +0000"
     },
     "done": true
   },

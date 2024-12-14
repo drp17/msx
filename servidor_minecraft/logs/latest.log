@@ -365,3 +365,5 @@
 [14Dec2024 03:59:12.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=79, z=171} BlockPos{x=-12, y=80, z=172}
 [14Dec2024 04:00:34.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=68, z=149} BlockPos{x=-6, y=67, z=149}
 [14Dec2024 04:01:08.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=53, z=150} BlockPos{x=22, y=53, z=149}
+[14Dec2024 04:11:20.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Who is Cutting Onions?]
+[14Dec2024 04:12:02.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Who is Cutting Onions?]
