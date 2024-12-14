@@ -343,3 +343,6 @@
 [14Dec2024 21:00:55.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/100.92.154.61:54442] logged in with entity id 879 at (-391.62640471839535, 69.5, 1512.7661440704776)
 [14Dec2024 21:00:55.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 joined the game
 [14Dec2024 21:15:16.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14Dec2024 21:36:44.936] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@567a7804
+[14Dec2024 21:40:52.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[14Dec2024 21:40:52.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
