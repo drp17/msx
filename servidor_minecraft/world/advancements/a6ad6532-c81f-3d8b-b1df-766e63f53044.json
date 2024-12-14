@@ -602,10 +602,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-10 00:48:07 +0000",
+      "minecraft:ravager": "2024-12-14 03:11:53 +0000",
       "minecraft:spider": "2024-12-10 02:30:03 +0000",
       "minecraft:creeper": "2024-12-10 02:30:01 +0000",
       "minecraft:cave_spider": "2024-12-12 03:55:06 +0000",
-      "minecraft:zombie": "2024-12-10 00:52:07 +0000"
+      "minecraft:zombie": "2024-12-10 00:52:07 +0000",
+      "minecraft:zombie_villager": "2024-12-14 03:12:29 +0000"
     },
     "done": false
   },
@@ -648,6 +650,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-10 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-14 03:24:46 +0000"
     },
     "done": true
   },
@@ -1271,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-14 03:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-10 00:07:49 +0000"
@@ -1526,6 +1540,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-10 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-14 03:11:55 +0000"
     },
     "done": true
   },
