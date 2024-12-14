@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 04:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:51:33 +0000"
@@ -551,6 +557,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-14 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-14 04:01:27 +0000"
@@ -602,11 +614,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-10 01:16:02 +0000",
+      "minecraft:blaze": "2024-12-14 04:34:02 +0000",
       "minecraft:skeleton": "2024-12-10 00:27:55 +0000",
       "minecraft:hoglin": "2024-12-14 04:15:20 +0000",
       "minecraft:vindicator": "2024-12-14 03:08:29 +0000",
       "minecraft:spider": "2024-12-10 01:12:08 +0000",
       "minecraft:creeper": "2024-12-10 00:28:22 +0000",
+      "minecraft:wither_skeleton": "2024-12-14 04:34:11 +0000",
       "minecraft:piglin": "2024-12-14 04:09:02 +0000",
       "minecraft:enderman": "2024-12-12 04:05:42 +0000",
       "minecraft:zombie": "2024-12-10 00:28:29 +0000",
@@ -1329,7 +1343,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-14 04:07:57 +0000",
       "minecraft:nether_wastes": "2024-12-14 04:24:05 +0000",
-      "minecraft:soul_sand_valley": "2024-12-14 03:55:09 +0000"
+      "minecraft:soul_sand_valley": "2024-12-14 03:55:09 +0000",
+      "minecraft:basalt_deltas": "2024-12-14 04:33:43 +0000"
     },
     "done": false
   },
@@ -1685,6 +1700,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-10 04:12:20 +0000",
       "baked_potato": "2024-12-12 03:21:54 +0000",
+      "porkchop": "2024-12-14 04:39:27 +0000",
       "bread": "2024-12-10 00:15:19 +0000",
       "beetroot": "2024-12-10 04:11:25 +0000",
       "cooked_chicken": "2024-12-10 01:12:20 +0000",
@@ -1842,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-14 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-10 01:58:29 +0000"
@@ -1943,6 +1965,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-10 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 04:34:40 +0000"
     },
     "done": true
   },
@@ -2375,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-14 04:34:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 23:57:59 +0000"
@@ -2558,6 +2592,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-14 04:39:19 +0000"
     },
     "done": true
   },
@@ -2883,6 +2923,12 @@
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_tomato": "2024-12-10 01:54:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 04:34:40 +0000"
     },
     "done": true
   },
