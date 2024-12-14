@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-14 22:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 03:26:29 +0000"
@@ -470,6 +476,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-10 00:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-14 22:56:10 +0000"
     },
     "done": true
   },
@@ -744,6 +756,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-14 22:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-14 04:12:29 +0000"
@@ -984,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 22:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 00:03:41 +0000"
@@ -1214,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-09 23:47:50 +0000"
@@ -1331,6 +1361,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-12-09 23:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-14 22:56:10 +0000"
     },
     "done": true
   },
@@ -1481,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-14 22:53:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "has_tomato": "2024-12-10 01:54:00 +0000"
@@ -1508,6 +1550,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-10 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-14 22:56:10 +0000"
     },
     "done": true
   },
@@ -1568,6 +1616,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-14 22:56:10 +0000"
     },
     "done": true
   },
@@ -1708,6 +1762,7 @@
       "cooked_porkchop": "2024-12-10 04:12:20 +0000",
       "baked_potato": "2024-12-12 03:21:54 +0000",
       "porkchop": "2024-12-14 04:39:27 +0000",
+      "apple": "2024-12-14 22:48:10 +0000",
       "bread": "2024-12-10 00:15:19 +0000",
       "beetroot": "2024-12-10 04:11:25 +0000",
       "cooked_chicken": "2024-12-10 01:12:20 +0000",
@@ -2662,6 +2717,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 22:53:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-09 23:51:33 +0000"
@@ -2695,6 +2756,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-10 00:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-14 22:58:47 +0000"
     },
     "done": true
   },
@@ -2954,6 +3021,12 @@
   "travelersbackpack:recipes/travelersbackpack/nether": {
     "criteria": {
       "has_nether_wart": "2024-12-14 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-14 22:56:10 +0000"
     },
     "done": true
   },
