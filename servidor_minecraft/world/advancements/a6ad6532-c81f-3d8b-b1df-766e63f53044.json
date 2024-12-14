@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-14 05:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-10 03:49:18 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-14 05:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-14 04:37:44 +0000",
@@ -720,6 +732,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-09 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-14 05:01:21 +0000"
     },
     "done": true
   },
@@ -1910,6 +1928,7 @@
       "cooked_mutton": "2024-12-11 04:22:04 +0000",
       "baked_potato": "2024-12-11 04:36:59 +0000",
       "bread": "2024-12-12 04:57:21 +0000",
+      "melon_slice": "2024-12-14 05:01:33 +0000",
       "cooked_chicken": "2024-12-12 04:56:30 +0000"
     },
     "done": false
@@ -2436,6 +2455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-14 05:02:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/chicken": {
     "criteria": {
       "has_feather": "2024-12-09 23:57:50 +0000"
@@ -2531,6 +2556,14 @@
       "has_white_wool": "2024-12-09 23:57:59 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2024-12-14 04:59:48 +0000",
+      "tomato": "2024-12-14 04:59:28 +0000",
+      "potato": "2024-12-14 04:59:01 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
@@ -2715,6 +2748,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-10 00:02:44 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:belzium": {
+    "criteria": {
+      "requirement": "2024-12-14 04:56:01 +0000"
     },
     "done": true
   },
@@ -2940,9 +2979,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-14 05:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-14 04:44:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-14 05:01:21 +0000"
     },
     "done": true
   },
@@ -3273,6 +3324,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-09 23:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-14 05:01:21 +0000"
     },
     "done": true
   },
