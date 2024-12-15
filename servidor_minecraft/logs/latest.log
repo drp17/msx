@@ -351,3 +351,5 @@
 [15Dec2024 17:44:49.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
 [15Dec2024 17:44:55.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from gonzalo191215: hit position BlockPos{x=-409, y=56, z=1506} too far away from player BlockPos{x=-50, y=41, z=190}.
 [15Dec2024 17:44:55.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from gonzalo191215: hit position BlockPos{x=-409, y=56, z=1506} too far away from player BlockPos{x=-50, y=41, z=190}.
+[15Dec2024 18:28:43.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 was doomed to fall
+[15Dec2024 18:29:10.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
