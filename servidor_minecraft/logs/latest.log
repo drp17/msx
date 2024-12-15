@@ -373,3 +373,5 @@
 [15Dec2024 19:21:06.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
 [15Dec2024 19:21:06.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=62, z=1512}
 [15Dec2024 19:40:48.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[15Dec2024 19:44:43.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set the time to 13000]
+[15Dec2024 19:49:03.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set the time to 1000]
