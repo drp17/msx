@@ -343,3 +343,11 @@
 [15Dec2024 17:35:57.724] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e54a29e
 [15Dec2024 17:35:57.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:49969] logged in with entity id 641 at (-366.475057598998, 69.5625, 1511.6442308913383)
 [15Dec2024 17:35:57.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
+[15Dec2024 17:41:11.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[15Dec2024 17:42:31.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was doomed to fall by Ghast
+[15Dec2024 17:43:13.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was doomed to fall by Ghast
+[15Dec2024 17:43:53.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was doomed to fall by Ghast
+[15Dec2024 17:44:22.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[15Dec2024 17:44:49.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[15Dec2024 17:44:55.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from gonzalo191215: hit position BlockPos{x=-409, y=56, z=1506} too far away from player BlockPos{x=-50, y=41, z=190}.
+[15Dec2024 17:44:55.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from gonzalo191215: hit position BlockPos{x=-409, y=56, z=1506} too far away from player BlockPos{x=-50, y=41, z=190}.
