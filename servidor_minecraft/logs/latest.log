@@ -353,3 +353,10 @@
 [15Dec2024 17:44:55.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from gonzalo191215: hit position BlockPos{x=-409, y=56, z=1506} too far away from player BlockPos{x=-50, y=41, z=190}.
 [15Dec2024 18:28:43.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 was doomed to fall
 [15Dec2024 18:29:10.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[15Dec2024 18:36:20.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 tried to swim in lava to escape Ghast
+[15Dec2024 18:36:38.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
+[15Dec2024 18:36:42.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 tried to swim in lava
+[15Dec2024 18:36:58.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[15Dec2024 18:37:08.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported papita1701 to gonzalo191215]
+[15Dec2024 18:41:05.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 tried to swim in lava
+[15Dec2024 18:41:30.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
