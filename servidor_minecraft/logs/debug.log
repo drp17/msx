@@ -3738,3 +3738,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Dec2024 19:07:05.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Dec2024 19:12:05.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 19:12:05.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:16:27.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Local Brewery]
+[15Dec2024 19:17:05.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:17:05.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:17:34.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[15Dec2024 19:21:05.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:05.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:05.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:05.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:06.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:06.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=63, z=1509}
+[15Dec2024 19:21:06.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-357, y=63, z=1509} BlockPos{x=-358, y=62, z=1512}
+[15Dec2024 19:22:05.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:22:05.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
