@@ -1520,6 +1520,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-18 03:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-10 00:09:45 +0000"
@@ -2746,7 +2752,8 @@
     "criteria": {
       "cabbage": "2024-12-14 04:59:48 +0000",
       "tomato": "2024-12-14 04:59:28 +0000",
-      "potato": "2024-12-14 04:59:01 +0000"
+      "potato": "2024-12-14 04:59:01 +0000",
+      "wheat": "2024-12-18 03:36:50 +0000"
     },
     "done": false
   },
