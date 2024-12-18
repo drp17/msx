@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 03:33:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2024-12-09 23:55:45 +0000"
@@ -1317,6 +1323,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-09 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 03:33:58 +0000"
     },
     "done": true
   },
@@ -3323,6 +3335,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-15 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-18 03:33:58 +0000"
     },
     "done": true
   },

@@ -368,3 +368,7 @@
 [18Dec2024 03:21:26.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
 [18Dec2024 03:24:12.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
 [18Dec2024 03:24:43.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[18Dec2024 03:34:06.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@312c6d62
+[18Dec2024 03:34:06.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:52762] logged in with entity id 3903 at (-357.3815079489649, 63.0, 1499.214290935967)
+[18Dec2024 03:34:06.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
+[18Dec2024 03:36:50.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [A Seedy Place]
