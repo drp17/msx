@@ -1520,6 +1520,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bat_smithing": {
+    "criteria": {
+      "has_bat": "2024-12-18 03:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-10 03:48:53 +0000"
