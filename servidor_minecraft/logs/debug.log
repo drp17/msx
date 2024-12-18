@@ -3762,3 +3762,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 04:16:41.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 04:17:13.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
 [18Dec2024 04:19:09.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[18Dec2024 04:19:48.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Dec2024 04:21:44.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:21:44.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:24:17.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 lost connection: Disconnected
+[18Dec2024 04:24:17.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 left the game
+[18Dec2024 04:24:34.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[18Dec2024 04:26:43.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:26:43.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:31:43.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:31:43.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:32:57.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 moved too quickly! -10.759394086365916,0.0,-0.2358330094423593
+[18Dec2024 04:35:45.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 moved too quickly! -9.35649634923982,0.0,5.497540009738657
+[18Dec2024 04:36:43.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:36:43.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:37:14.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[18Dec2024 04:39:35.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[18Dec2024 04:39:35.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[18Dec2024 04:40:10.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[18Dec2024 04:40:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 04:40:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 04:40:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
