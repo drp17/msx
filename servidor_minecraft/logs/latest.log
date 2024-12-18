@@ -397,3 +397,10 @@
 [18Dec2024 04:40:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
 [18Dec2024 04:40:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
 [18Dec2024 04:40:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 04:40:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 04:40:11.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 04:40:11.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 04:40:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 04:40:11.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 04:40:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 04:40:11.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
