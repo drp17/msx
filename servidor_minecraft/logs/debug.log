@@ -3739,3 +3739,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 03:41:41.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 03:46:41.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 03:46:41.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:51:41.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:51:41.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:51:45.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was shot by Skeleton
+[18Dec2024 03:51:45.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papita1701 with unique ID travelersbackpack.bat_18.12.2024-03.51.45.dat
+[18Dec2024 03:51:45.866] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -458 Y: 87.0 Z: 1355
+[18Dec2024 03:53:03.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 fell from a high place
+[18Dec2024 03:56:41.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:56:41.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

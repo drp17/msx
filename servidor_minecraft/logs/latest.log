@@ -373,3 +373,7 @@
 [18Dec2024 03:34:06.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
 [18Dec2024 03:36:50.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [A Seedy Place]
 [18Dec2024 03:39:15.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Dec2024 03:51:45.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 was shot by Skeleton
+[18Dec2024 03:51:45.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papita1701 with unique ID travelersbackpack.bat_18.12.2024-03.51.45.dat
+[18Dec2024 03:51:45.866] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -458 Y: 87.0 Z: 1355
+[18Dec2024 03:53:03.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 fell from a high place
