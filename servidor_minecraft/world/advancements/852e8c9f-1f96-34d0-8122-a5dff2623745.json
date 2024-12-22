@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-22 21:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:51:33 +0000"
@@ -1956,6 +1962,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-10 04:12:20 +0000",
       "chicken": "2024-12-15 19:28:09 +0000",
+      "chorus_fruit": "2024-12-22 21:17:56 +0000",
       "baked_potato": "2024-12-12 03:21:54 +0000",
       "porkchop": "2024-12-14 04:39:27 +0000",
       "apple": "2024-12-14 22:48:10 +0000",
@@ -2697,6 +2704,7 @@
       "onion": "2024-12-10 03:38:15 +0000",
       "tomato": "2024-12-10 01:52:56 +0000",
       "beetroot": "2024-12-10 02:35:55 +0000",
+      "chorus_flower": "2024-12-22 21:17:42 +0000",
       "sugar_cane": "2024-12-10 04:01:16 +0000",
       "potato": "2024-12-10 01:31:18 +0000",
       "wheat": "2024-12-10 01:06:56 +0000",
@@ -3093,6 +3101,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-10 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-22 21:17:30 +0000"
     },
     "done": true
   },
