@@ -3047,15 +3047,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2024-12-18 04:34:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2024-12-18 04:19:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-18 04:34:38 +0000"
     },
     "done": true
   },
