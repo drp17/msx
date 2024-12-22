@@ -416,3 +416,22 @@
 [22Dec2024 21:40:29.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Local Brewery]
 [22Dec2024 21:41:43.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has reached the goal [Sky's the Limit]
 [22Dec2024 21:41:53.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has reached the goal [Sky's the Limit]
+[22Dec2024 21:43:12.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [gonzalo191215: Set own game mode to Survival Mode]
+[22Dec2024 21:46:32.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 fell out of the world
+[22Dec2024 21:46:37.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 moved too quickly! 18.77173660592348,-1.6771755681948974,-1.273346560989637
+[22Dec2024 21:46:59.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Teleported gonzalo191215 to papita1701]
+[22Dec2024 21:47:38.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[22Dec2024 21:47:38.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 left the game
+[22Dec2024 21:47:41.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 lost connection: Disconnected
+[22Dec2024 21:47:41.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 left the game
+[22Dec2024 21:47:55.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[22Dec2024 21:47:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2024 21:47:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2024 21:47:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2024 21:47:56.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Dec2024 21:47:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Dec2024 21:47:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Dec2024 21:47:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2024 21:47:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2024 21:47:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2024 21:47:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
