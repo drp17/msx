@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-22 21:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-10 00:30:13 +0000"
@@ -2886,6 +2892,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-09 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2024-12-22 21:33:29 +0000"
     },
     "done": true
   },
