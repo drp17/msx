@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-22 20:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:55:39 +0000"
@@ -593,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-22 20:30:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_feast": {
     "criteria": {
       "roast_chicken": "2024-12-10 05:04:06 +0000"
@@ -746,6 +758,7 @@
       "minecraft:piglin": "2024-12-15 17:56:47 +0000",
       "minecraft:enderman": "2024-12-15 19:13:50 +0000",
       "minecraft:zombie": "2024-12-10 00:52:07 +0000",
+      "minecraft:drowned": "2024-12-22 20:30:20 +0000",
       "minecraft:zombie_villager": "2024-12-14 03:12:29 +0000"
     },
     "done": false
@@ -1674,6 +1687,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-10 02:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-22 20:30:15 +0000"
     },
     "done": true
   },

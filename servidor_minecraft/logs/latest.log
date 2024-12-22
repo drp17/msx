@@ -365,3 +365,11 @@
 [22Dec2024 19:58:46.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
 [22Dec2024 20:03:59.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
 [22Dec2024 20:08:35.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[22Dec2024 20:38:05.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [Eye Spy]
+[22Dec2024 20:38:06.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [Eye Spy]
+[22Dec2024 20:40:49.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [The End?]
+[22Dec2024 20:40:53.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 has made the advancement [The End?]
+[22Dec2024 20:40:53.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[22Dec2024 20:40:54.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gonzalo191215 moved too quickly! 1251.0600976996711,17.26590000152588,-1920.0334719110285
+[22Dec2024 20:40:59.964] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[22Dec2024 20:40:59.967] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
