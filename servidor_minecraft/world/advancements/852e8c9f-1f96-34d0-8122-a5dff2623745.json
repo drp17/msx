@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-22 21:17:52 +0000"
@@ -290,6 +296,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-12 03:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
     },
     "done": true
   },
@@ -684,6 +696,7 @@
       "minecraft:phantom": "2024-12-15 20:05:00 +0000",
       "minecraft:witch": "2024-12-14 21:24:45 +0000",
       "minecraft:wither_skeleton": "2024-12-14 04:34:11 +0000",
+      "minecraft:shulker": "2024-12-22 21:24:59 +0000",
       "minecraft:piglin": "2024-12-14 04:09:02 +0000",
       "minecraft:enderman": "2024-12-12 04:05:42 +0000",
       "minecraft:silverfish": "2024-12-22 20:38:28 +0000",
@@ -1385,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-15 19:16:27 +0000"
@@ -1769,6 +1788,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 00:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
     },
     "done": true
   },
@@ -3002,6 +3027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-22 21:25:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:57:53 +0000"
@@ -3083,6 +3114,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 23:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-22 21:24:18 +0000"
     },
     "done": true
   },
@@ -3332,6 +3369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 23:51:49 +0000"
@@ -3438,6 +3481,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-12-14 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-22 21:27:05 +0000"
     },
     "done": true
   },

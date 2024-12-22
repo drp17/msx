@@ -773,6 +773,7 @@
       "minecraft:zombified_piglin": "2024-12-14 04:09:37 +0000",
       "minecraft:wither_skeleton": "2024-12-14 04:34:54 +0000",
       "minecraft:ender_dragon": "2024-12-22 20:59:07 +0000",
+      "minecraft:shulker": "2024-12-22 21:24:38 +0000",
       "minecraft:cave_spider": "2024-12-12 03:55:06 +0000",
       "minecraft:piglin": "2024-12-15 17:56:47 +0000",
       "minecraft:enderman": "2024-12-15 19:13:50 +0000",
@@ -3490,6 +3491,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-12 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-22 21:24:10 +0000"
     },
     "done": true
   },
