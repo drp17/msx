@@ -1226,6 +1226,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/dragon": {
+    "criteria": {
+      "has_dragon_egg": "2024-12-22 21:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-09 23:45:27 +0000"
@@ -1700,6 +1706,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2024-12-14 03:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-22 21:03:10 +0000"
     },
     "done": true
   },
