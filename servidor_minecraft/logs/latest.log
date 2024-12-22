@@ -356,3 +356,7 @@
 [22Dec2024 19:28:00.018] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0753fd
 [22Dec2024 19:28:00.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:63089] logged in with entity id 4791 at (-378.95774261665986, 64.0, 1511.77124200558)
 [22Dec2024 19:28:00.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game
+[22Dec2024 19:42:10.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papita1701 has made the advancement [What a Deal!]
+[22Dec2024 19:46:01.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
+[22Dec2024 19:46:24.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[22Dec2024 19:46:41.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/123, l='ServerLevel[world]', x=-393.30, y=64.00, z=1509.67] died, message: 'Butcher was slain by papita1701'
