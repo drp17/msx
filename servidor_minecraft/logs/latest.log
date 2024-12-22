@@ -344,3 +344,15 @@
 [22Dec2024 19:04:02.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
 [22Dec2024 19:04:45.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Creative Mode]
 [22Dec2024 19:06:38.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [papita1701: Set own game mode to Survival Mode]
+[22Dec2024 19:25:23.643] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,some_assembly_required:main,isleofberk:control,geckolib3:main,pehkui:main] rejected vanilla connections
+[22Dec2024 19:25:23.645] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22Dec2024 19:25:48.953] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,some_assembly_required:main,isleofberk:control,geckolib3:main,pehkui:main] rejected vanilla connections
+[22Dec2024 19:25:48.954] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22Dec2024 19:26:53.895] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37e71fdc
+[22Dec2024 19:26:53.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaquin2922[/100.77.28.28:63006] logged in with entity id 4433 at (-64.5, 66.0, 11.5)
+[22Dec2024 19:26:53.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: joaquin2922 joined the game
+[22Dec2024 19:27:03.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaquin2922 lost connection: Disconnected
+[22Dec2024 19:27:03.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: joaquin2922 left the game
+[22Dec2024 19:28:00.018] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0753fd
+[22Dec2024 19:28:00.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gonzalo191215[/100.77.28.28:63089] logged in with entity id 4791 at (-378.95774261665986, 64.0, 1511.77124200558)
+[22Dec2024 19:28:00.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gonzalo191215 joined the game

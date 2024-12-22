@@ -2834,6 +2834,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roast_chicken": "2024-12-22 19:18:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-14 04:59:48 +0000",
@@ -3566,6 +3572,12 @@
   "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-11 04:33:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-22 19:18:16 +0000"
     },
     "done": true
   },
